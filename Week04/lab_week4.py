@@ -164,7 +164,7 @@ print("--- You have a strong player: " + str((combat_strength + health_points) >
 input("Roll for the Monster Power (Press Enter)")
 power_roll = random.choice(["Fire Magic", "Freezing Time", "Super Hearing"])
 
-#L4 - Q3 - Increase the Monster Strength
+#LAB4 - Q3 - Increase the Monster Strength
 m_combat_strength = min(6, m_combat_strength + monster_power[power_roll])
 print("The Monster Combat Strength is: " + str(m_combat_strength) + " Using the " + power_roll+ "Magic Power!")
 
