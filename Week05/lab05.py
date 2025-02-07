@@ -228,7 +228,7 @@ if not input_invalid:
 
         # Lab 5 - Question 1: 
         hero_name = input("Enter your Hero's name (in two words)")
-        name = hero_name.split() # Maziar Sojoudian --- 1:Maziar 2:Sojoudian
+        name = hero_name.split() # AlShahriar Fahmid --- 1:AlShahriar 2:Fahmid
         if len(name) != 2:
             print("    |    Please enter a name with two parts (separated by a space)")
             tries += 1
