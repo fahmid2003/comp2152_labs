@@ -1,0 +1,18 @@
+Hero AF has killed a monster and gained 3 stars.
+Total monsters killed: 1
+--- Game Outcome ---
+Winner: Monster
+Hero Level: 1
+Hero Experience: 0
+Hero Health: 1
+Hero Strength: 10
+Total monsters killed: 1
+
+--- Game Outcome ---
+Winner: Monster
+Hero Level: 1
+Hero Experience: 0
+Hero Health: 3
+Hero Strength: 6
+Total monsters killed: 1
+
